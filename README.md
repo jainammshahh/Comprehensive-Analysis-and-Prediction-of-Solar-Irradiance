@@ -85,6 +85,8 @@ Originally “Time” column was available in reverse order. It has been modifie
 
 **Step 6: Model Creation**
 
+<img width="395" alt="image" src="https://github.com/jainammshahh/Comprehensive-Analysis-and-Prediction-of-Solar-Irradiance/assets/114266749/0988185c-e49e-4339-847f-1f85eeaf799a">
+
 -   Split the dataset into independent and dependent variables, where solar irradiance is the dependent variable.
 -   Employed decision tree-based regression algorithms, specifically Random Forest Regressor, for model creation.
 -   Performed backward elimination to remove less important parameters.
