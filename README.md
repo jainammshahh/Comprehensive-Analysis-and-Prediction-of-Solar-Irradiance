@@ -40,17 +40,19 @@ Numeric data and Text data are unique based on parameters as mentioned below. Th
 10.	TimeSunRise - Hawaii Time
 11.	TimeSunSet - Hawaii Time
 
-**Dataset Overview**
+**Dataset Overview**  
+
 <img width="468" alt="image" src="https://github.com/jainammshahh/Comprehensive-Analysis-and-Prediction-of-Solar-Irradiance/assets/114266749/0cbfe3d2-467e-4a3d-812e-8f3a981fdc99">
 
 
 Originally “Time” column was available in reverse order. It has been modified and correctly arranged in the data frame by resetting by sorting.
 
-**Dataset Info**
+**Dataset Info**  
+
 <img width="283" alt="image" src="https://github.com/jainammshahh/Comprehensive-Analysis-and-Prediction-of-Solar-Irradiance/assets/114266749/72699027-cfdf-4a9d-9914-65f478f5a1f9">
 
 
-**Dataset Statistics**
+**Dataset Statistics**  
 
 <img width="412" alt="image" src="https://github.com/jainammshahh/Comprehensive-Analysis-and-Prediction-of-Solar-Irradiance/assets/114266749/10abe8e8-1f8a-4555-95e4-0b858fde9ed0">
 
